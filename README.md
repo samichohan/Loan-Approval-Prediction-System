@@ -2,7 +2,7 @@
 
 A machine learning-based web application that predicts whether a loan application will be **approved** or **rejected**, based on applicant demographics, financial profile, and credit history. Built with Scikit-learn and deployed as an interactive web app using Streamlit.
 
-🔗 **Live Demo:** [Add your Streamlit app link here]
+🔗 **Live Demo:** https://loan-approval-prediction-system-app.streamlit.app/
 
 ---
 
